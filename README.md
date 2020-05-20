@@ -1,2 +1,2 @@
 # Terraform-ECS
-This is a repo which created an ecs using terraform 
+This is a repo which creates an ecs using terraform 
